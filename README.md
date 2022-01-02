@@ -1,15 +1,28 @@
 # configure-BF-F8HP
 
-## Upload channels using CHIRP from MAC. 
+## 1. Upload channels using CHIRP from MAC. 
 Download CHIRP from the link below (MAC version) and unzip it and drag it to the `/Application` folder
 https://trac.chirp.danplanet.com/chirp_daily/LATEST/
 
-## Connect the Cable to USB port of your MAC (turn the radio ON). 
+## 2. Connect the Cable to USB port of your MAC (turn the radio ON). 
 ![intro](images/intro.png)
 
 
-## Download current Channels from your Radio. 
+## 3. Download current Channels from your Radio. 
+and Save it to a file (.img extension)
 ![RadioDownload](images/dounload.png)
+
+
+## 4. Get a list of repeaters based on your city/zip-code/lat-long etc. 
+and Save it to a file (.csv), edit this file if intended
+![Repeaters](images/Repeaters.png)
+
+## Open the img file in step #3 from the Saved location
+from menu open/import the csv file (saved in step #4) 
+
+![new_list](images/new_list.png)
+
+
 
 
 
