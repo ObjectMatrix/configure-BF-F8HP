@@ -4,4 +4,6 @@
 Download CHIRP from the link below (MAC version) and unzip it and drag it to the `/Application` folder
 https://trac.chirp.danplanet.com/chirp_daily/LATEST/
 
+![intro](images/intro.png)
+
 
