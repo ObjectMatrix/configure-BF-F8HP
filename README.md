@@ -17,8 +17,8 @@ and Save it to a file (.img extension)
 and Save it to a file (.csv), edit this file if intended
 ![Repeaters](images/Repeaters.png)
 
-## Open the img file in step #3 from the Saved location
-from menu open/import the csv file (saved in step #4) 
+## 5. Open the img file in step #3 from the Saved file path
+now, from menu -> open/import the `csv` file (repeaters list saved in step #4) 
 
 ![new_list](images/new_list.png)
 
