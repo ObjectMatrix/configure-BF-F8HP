@@ -1,4 +1,4 @@
-# configure-BF-F8HP
+# Steps to Import Repeaters to Your Radio (Baofeng BF-F8HP)
 
 ## 1. Upload channels using CHIRP from MAC. 
 Download CHIRP from the link below (MAC version) and unzip it and drag it to the `/Application` folder
