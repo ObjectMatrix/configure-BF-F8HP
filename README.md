@@ -9,7 +9,7 @@ https://trac.chirp.danplanet.com/chirp_daily/LATEST/
 
 
 ## Download current Channels from your Radio. 
-![RadioDownload](images/download.png)
+![RadioDownload](images/dounload.png)
 
 
 
